@@ -1,6 +1,3 @@
-Absolutely! Here's a simpler, cleaner, and more professional rewrite of your README content with clear sections and polished phrasing:
-
----
 
 # 🛒 Online Shopping System
 
@@ -119,7 +116,3 @@ The Online Shopping System enables users to:
 * Automated receipt generation
 * Strong exception handling for reliability
 * Efficient use of data structures for performance
-
----
-
-If you want, I can also help you convert this into markdown-ready text with correct formatting — just let me know!
