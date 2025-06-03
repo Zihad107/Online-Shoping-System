@@ -2,7 +2,8 @@
 
 A Java-based online shopping application designed to offer a comprehensive shopping experience, integrating product browsing, cart management, and multiple payment methods. This project utilizes key Java concepts such as classes, inheritance, arrays, and exception handling to provide a functional, scalable solution.
 
-
+Collaboration  
+This project was originally created and developed collaboratively by four contributors, including [Nusrat Jaben Aurnima](https://github.com/NusratJabenAurnima) and others.
 
 ## 🚀 **Project Overview**
 
