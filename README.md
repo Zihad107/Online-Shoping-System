@@ -8,7 +8,7 @@ A Java-based online shopping application offering a seamless shopping experience
 
 ### Collaboration
 
-This project was developed collaboratively by four contributors, including [Nusrat Jaben Aurnima](https://github.com/NusratJabenAurnima).
+This project was developed collaboratively by four contributors, including [Nusrat Jaben Aurnima](https://github.com/NusratJabenAurnima) and others.
 
 ---
 
